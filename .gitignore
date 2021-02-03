@@ -11,6 +11,9 @@
 # production
 /build
 
+# images
+/uploads/images
+
 # misc
 .DS_Store
 .env.local
@@ -21,3 +24,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+controllers/DUMMY_DATA_places-controllers.js
+controllers/DUMMY_DATA_users-controllers.js
+nodemon.json
