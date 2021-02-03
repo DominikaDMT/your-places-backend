@@ -26,4 +26,4 @@ yarn-debug.log*
 yarn-error.log*
 controllers/DUMMY_DATA_places-controllers.js
 controllers/DUMMY_DATA_users-controllers.js
-nodemon.json
+nodemon2.json
